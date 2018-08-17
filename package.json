@@ -16,6 +16,7 @@
     "less-loader": "4.1.0"
   },
   "dependencies": {
+    "laravel-mix-purgecss": "^2.2.3",
     "laravel-mix-tailwind": "^0.1.0",
     "tailwindcss": "^0.6.5"
   }
